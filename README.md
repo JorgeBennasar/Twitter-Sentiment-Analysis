@@ -6,5 +6,5 @@ Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 Test Accuracy:
 
-1) Negative Sentiment: 85.67%
-2) Positive Sentiment: 83.39%
+1) Negative Sentiment: 88.02%
+2) Positive Sentiment: 86.51%
